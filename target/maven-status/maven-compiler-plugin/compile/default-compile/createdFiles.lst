@@ -1,0 +1,9 @@
+com\mateo\chat\controllers\CoffeeController.class
+com\mateo\chat\websockets\ChatController.class
+com\mateo\chat\ServletInitializer.class
+com\mateo\chat\config\WebSocketEventListener.class
+com\mateo\chat\websockets\MessageType.class
+com\mateo\chat\ChatApplication.class
+com\mateo\chat\websockets\ChatMessage.class
+com\mateo\chat\websockets\ChatMessage$ChatMessageBuilder.class
+com\mateo\chat\config\WebSocketConfig.class

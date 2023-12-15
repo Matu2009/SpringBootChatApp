@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mateo.chat.ChatApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.906 s -- in com.mateo.chat.ChatApplicationTests
